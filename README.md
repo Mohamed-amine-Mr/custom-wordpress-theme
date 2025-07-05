@@ -20,4 +20,3 @@ This is a custom WordPress theme project created by following [Nour Homsi’s Yo
 
 ## 📸 Preview
 
-Include a screenshot of your theme:
